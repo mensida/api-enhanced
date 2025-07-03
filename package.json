@@ -1,5 +1,5 @@
 {
-  "name": "NeteaseCloudMusicApiReborn",
+  "name": "@neteaseapireborn/api",
   "version": "4.27.0",
   "description": "为停更的网易云音乐 NodeJs API 提供持续的维护！",
   "scripts": {
